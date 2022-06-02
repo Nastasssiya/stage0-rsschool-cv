@@ -1,1 +1,2 @@
-# rsschool-cv https://nastasssiya.github.io/rsschool-cv/cv
+# rsschool-cv
+https://nastasssiya.github.io/rsschool-cv/cv
