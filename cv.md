@@ -49,7 +49,12 @@ courses:**
 ![my skills](C:\Users\kokok\Desktop\photo_2022-06-03_15-35-14.jpg)  
 + Javascript: dive on
 [WayUp](https://my.wayup.in/course/3)
-(in process)  
+(in progress)  
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
 
 ---
+**Languages:**
++ **English** ELEMENTARY A1+, A2, unfortunately, had no language practice.  
+![my skills](C:\Users\kokok\Desktop\Screenshot 2022-06-03 140203.png)  
++ **Russian** native speaker.  
++ **Belarusian** native speaker.
