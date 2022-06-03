@@ -40,4 +40,4 @@ def multiply(a,b)
     return(a * b)
 ```
 ---
-![my skills] (https://sun9-76.userapi.com/s/v1/ig2/SA0J11tkKU9DhfqBltISOOIbzrGrwh6FUZybBB6qCcIphOqukqoewFYvvHPM3Z3vGI8cPfJbkCEC_jdAdTqbLqaI.jpg?size=1919x1080&quality=95&type=album)
+![my skills]("C:\Users\kokok\Desktop\photo_2022-06-03_15-35-14.jpg")
