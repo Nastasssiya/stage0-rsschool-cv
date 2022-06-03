@@ -55,6 +55,6 @@ courses:**
 ---
 **Languages:**
 + **English** ELEMENTARY A1+, A2, unfortunately, had no language practice.  
-![my skills in English](C:\Users\kokok\Desktop\Screenshot 2022-06-03 140203.png)  
+![my skills in English]("C:\Users\kokok\Desktop\fyufddd.png")  
 + **Russian** native speaker.  
 + **Belarusian** native speaker.
