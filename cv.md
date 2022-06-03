@@ -33,7 +33,7 @@ Solving the problem when registering on CODWARS, it was necessary to fix the cod
 def multiply(a b)  
             a * b  
 ***My decision:***  
-def multiply(a,b) 
+def multiply(a,b)   
 return(a * b)
 
 ---
