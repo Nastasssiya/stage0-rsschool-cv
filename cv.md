@@ -40,4 +40,4 @@ def multiply(a,b)
     return(a * b)
 ```
 ---
-![my skills]("C:\Users\kokok\Desktop\photo_2022-06-03_15-35-14.jpg")
+![my skills](C:\Users\kokok\Desktop\photo_2022-06-03_15-35-14.jpg)
