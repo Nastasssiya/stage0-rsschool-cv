@@ -9,7 +9,7 @@
 [Facebook](https://www.facebook.com/nikolaevichaa)  
 
 ---
-**About Myself**
+**About Myself**  
 **Goal:** 
 >To learn how to write code competently and logically, to become a sought-after IT specialist.  
 >
@@ -40,3 +40,4 @@ def multiply(a,b)
     return(a * b)
 ```
 ---
+![my skills] (https://sun9-76.userapi.com/s/v1/ig2/SA0J11tkKU9DhfqBltISOOIbzrGrwh6FUZybBB6qCcIphOqukqoewFYvvHPM3Z3vGI8cPfJbkCEC_jdAdTqbLqaI.jpg?size=1919x1080&quality=95&type=album)
