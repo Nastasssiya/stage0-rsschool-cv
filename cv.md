@@ -29,8 +29,11 @@ Basic understanding of HTML and CSS. In the process of learning JavaSkript.
 ---
 **Code example**
 Solving the problem when registering on CODWARS, it was necessary to fix the code for it to work:  
-Initial value    |My decision  
------------------|-----------  
-def multiply(a b)|def multiply(a,b) 
-            a * b|return(a * b)
+*Initial value:*  
+def multiply(a b)  
+            a * b
+***My decision***
+def multiply(a,b) 
+       return(a * b)
 
+---
