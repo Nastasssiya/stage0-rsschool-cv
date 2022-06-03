@@ -11,20 +11,26 @@
 ---
 **About Myself**
 **Goal:** 
->to learn how to write code competently and logically, to become a sought-after IT specialist.  
+>To learn how to write code competently and logically, to become a sought-after IT specialist.  
 >
 **Priorities:** 
->engage in a business that will bring pleasure in all aspects, develop in different directions.  
+>Engage in a business that will bring pleasure in all aspects, develop in different directions.  
 >
 **Strengths:** 
->diligence, responsibility, discipline, responsiveness, communication skills.  
+>Diligence, responsibility, discipline, responsiveness, communication skills.  
 >
 **Work Experience:** 
->no experience in IT. She worked in the service industry as an administrator. I have a great desire to develop in a new field for myself, I want to learn and learn new things.
+>No experience in IT. She worked in the service industry as an administrator. I have a great desire to develop in a new field for myself, I want to learn and learn new things.
 
 ---
 **Skills**  
 Basic understanding of HTML and CSS. In the process of learning JavaSkript.  
 
 ---
+**Code example**
+Solving the problem when registering on CODWARS, it was necessary to fix the code for it to work:  
+Initial value    |My decision  
+-----------------|-----------  
+def multiply(a b)|def multiply(a,b) 
+            a * b|return(a * b)
 
