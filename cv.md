@@ -41,7 +41,9 @@ def multiply(a,b)
 ```
 ---
 **Courses**  
-**I took free WayUp courses:**  
+**I took free
+[WayUp](https://my.wayup.in/)
+courses:**  
 + Web-designer: explosive start  
 + Web-layout designer: the beginning  
 ![my skills](C:\Users\kokok\Desktop\photo_2022-06-03_15-35-14.jpg)  
