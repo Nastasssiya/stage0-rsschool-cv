@@ -1,4 +1,4 @@
 # My CV #
-=========
+---
 # Anastasiya Nikolaevich #
-=========
+---
