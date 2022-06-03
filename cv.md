@@ -23,6 +23,6 @@
 >no experience in IT. She worked in the service industry as an administrator. I have a great desire to develop in a new field for myself, I want to learn and learn new things.
 
 ---
-**Skills**  
-Basic understanding of HTML and CSS. In the process of learning JavaSkript.
+## Skills ##
+Basic understanding of HTML and CSS. In the process of learning JavaSkript.  
 ---
