@@ -45,7 +45,9 @@ def multiply(a,b)
 + Web-designer: explosive start  
 + Web-layout designer: the beginning  
 ![my skills](C:\Users\kokok\Desktop\photo_2022-06-03_15-35-14.jpg)  
-+ Javascript: dive on [WayUp]([https://www.facebook.com/nikolaevichaa](https://my.wayup.in/course/3)) (in process)  
++ Javascript: dive on
+[WayUp]([https://www.facebook.com/nikolaevichaa](https://my.wayup.in/course/3)
+(in process)  
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
 
 ---
