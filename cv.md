@@ -55,6 +55,6 @@ courses:**
 ---
 **Languages:**
 + **English** ELEMENTARY A1+, A2, unfortunately, had no language practice.  
-![my skills in English]("C:\Users\kokok\Desktop\fyufddd.png")  
+![my skills in English]("rsschool-cv/img/fyufddd.png")  
 + **Russian** native speaker.  
 + **Belarusian** native speaker.
