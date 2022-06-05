@@ -1,8 +1,9 @@
 # My CV # 
 ---
-# Anastasiya Nikolaevich #
+# Anastasiya Nikolaevich #  
+![me](/img/avatar.png) 
 ---
-**Contact information**
+**Contact information**  
 **Phone/WhatsUp/Viber:** +375 29 764 26 04  
 **E-mail:** nikolayevich_nastya@mail.ru  
 **Telegram:** @nikolaevich_nastya  
