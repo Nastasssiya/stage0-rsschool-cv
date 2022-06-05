@@ -7,6 +7,7 @@
 **Contact information**  
 **Phone/WhatsApp/Viber:** +375 29 764 26 04  
 **E-mail:** nikolayevich_nastya@mail.ru  
+![icon](/img/tg.png)
 **Telegram:** @nikolaevich_nastya  
 ![icon](/img/facebook.png) 
 [Facebook](https://www.facebook.com/nikolaevichaa)  
