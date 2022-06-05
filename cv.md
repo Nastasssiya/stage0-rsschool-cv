@@ -5,7 +5,12 @@
 
 ---
 **Contact information**  
-**Phone/WhatsApp/Viber:** +375 29 764 26 04  
+![icon](/img/phone-call.png)
+**Phone
+![icon](/img/whatsapp.png)
+WhatsApp
+![icon](/img/vb.png)
+Viber:** +375 29 764 26 04  
 ![icon](/img/gmail.png)
 **E-mail:** nikolayevich_nastya@mail.ru  
 ![icon](/img/telegra.png)
