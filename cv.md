@@ -10,11 +10,11 @@
 ![icon](/img/whatsapp.png)
 WhatsApp
 ![icon](/img/vb.png)
-Viber:** +375 29 764 26 04  
+Viber:** `+375 29 764 26 04`  
 ![icon](/img/gmail.png)
 **E-mail:** `nikolayevich_nastya@mail.ru`  
 ![icon](/img/telegra.png)
-**Telegram:** @nikolaevich_nastya  
+**Telegram:** `@nikolaevich_nastya`  
 ![icon](/img/facebook.png) 
 [Facebook](https://www.facebook.com/nikolaevichaa)  
 
