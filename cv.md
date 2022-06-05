@@ -46,10 +46,10 @@ def multiply(a,b)
 courses:**  
 + Web-designer: explosive start  
 + Web-layout designer: the beginning  
-![my skills](/img/fyukbqcrbq.png)  
 + Javascript: dive on
 [WayUp](https://my.wayup.in/course/3)
 (in progress)  
+![my skills](/img/fyukbqcrbq.png)  
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
 
 ---
