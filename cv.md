@@ -19,7 +19,8 @@ Viber:** `+375 29 764 26 04`
 [Facebook](https://www.facebook.com/nikolaevichaa)  
 
 ---
-**About Myself**  
+**About Myself** 
+
 **Goal:** 
 >To learn how to write code competently and logically, to become a sought-after IT specialist.  
 >
